@@ -1,0 +1,202 @@
+{
+    "P001": {
+        "name": "Manaswi Sharma",
+        "city": "New York City",
+        "age": 28,
+        "gender": "female",
+        "height": 1.65,
+        "weight": 90.0,
+        "bmi": 33.06,
+        "verdict": "Obese"
+    },
+    "P002": {
+        "name": "Prajwal Ghotkar",
+        "city": "Los Angeles",
+        "age": 35,
+        "gender": "male",
+        "height": 1.75,
+        "weight": 85,
+        "bmi": 27.76,
+        "verdict": "Overweight"
+    },
+    "P003": {
+        "name": "Jully Smith",
+        "city": "Chicago",
+        "age": 22,
+        "gender": "female",
+        "height": 1.6,
+        "weight": 45,
+        "bmi": 17.58,
+        "verdict": "Underweight"
+    },
+    "P004": {
+        "name": "Parth Ghotkar",
+        "city": "Houston",
+        "age": 40,
+        "gender": "male",
+        "height": 1.8,
+        "weight": 95,
+        "bmi": 29.32,
+        "verdict": "Overweight"
+    },
+    "P005": {
+        "name": "Neha Sinha",
+        "city": "Phoenix",
+        "age": 30,
+        "gender": "female",
+        "height": 1.55,
+        "weight": 75,
+        "bmi": 31.22,
+        "verdict": "Obese"
+    },
+    "P006": {
+        "name": "Arjun Mehta",
+        "city": "San Diego",
+        "age": 26,
+        "gender": "male",
+        "height": 1.7,
+        "weight": 62,
+        "bmi": 21.45,
+        "verdict": "Normal"
+    },
+    "P007": {
+        "name": "Sophia Johnson",
+        "city": "Dallas",
+        "age": 33,
+        "gender": "female",
+        "height": 1.68,
+        "weight": 70,
+        "bmi": 24.8,
+        "verdict": "Normal"
+    },
+    "P008": {
+        "name": "Rohan Patel",
+        "city": "San Jose",
+        "age": 45,
+        "gender": "male",
+        "height": 1.82,
+        "weight": 110,
+        "bmi": 33.2,
+        "verdict": "Obese"
+    },
+    "P009": {
+        "name": "Emily Davis",
+        "city": "Austin",
+        "age": 29,
+        "gender": "female",
+        "height": 1.58,
+        "weight": 50,
+        "bmi": 20.04,
+        "verdict": "Normal"
+    },
+    "P010": {
+        "name": "Daniel Brown",
+        "city": "Jacksonville",
+        "age": 37,
+        "gender": "male",
+        "height": 1.76,
+        "weight": 78,
+        "bmi": 25.18,
+        "verdict": "Overweight"
+    },
+    "P011": {
+        "name": "Ishita Verma",
+        "city": "Fort Worth",
+        "age": 24,
+        "gender": "female",
+        "height": 1.62,
+        "weight": 54,
+        "bmi": 20.57,
+        "verdict": "Normal"
+    },
+    "P012": {
+        "name": "Michael Lee",
+        "city": "Columbus",
+        "age": 50,
+        "gender": "male",
+        "height": 1.74,
+        "weight": 100,
+        "bmi": 33.04,
+        "verdict": "Obese"
+    },
+    "P013": {
+        "name": "Olivia Wilson",
+        "city": "Charlotte",
+        "age": 27,
+        "gender": "female",
+        "height": 1.63,
+        "weight": 59,
+        "bmi": 22.21,
+        "verdict": "Normal"
+    },
+    "P014": {
+        "name": "Rahul Nair",
+        "city": "San Francisco",
+        "age": 31,
+        "gender": "male",
+        "height": 1.77,
+        "weight": 83,
+        "bmi": 26.5,
+        "verdict": "Overweight"
+    },
+    "P015": {
+        "name": "Ava Martinez",
+        "city": "Indianapolis",
+        "age": 34,
+        "gender": "female",
+        "height": 1.66,
+        "weight": 95,
+        "bmi": 34.49,
+        "verdict": "Obese"
+    },
+    "P016": {
+        "name": "David Miller",
+        "city": "Seattle",
+        "age": 42,
+        "gender": "male",
+        "height": 1.85,
+        "weight": 88,
+        "bmi": 25.72,
+        "verdict": "Overweight"
+    },
+    "P017": {
+        "name": "Ananya Gupta",
+        "city": "Denver",
+        "age": 21,
+        "gender": "female",
+        "height": 1.57,
+        "weight": 43,
+        "bmi": 17.47,
+        "verdict": "Underweight"
+    },
+    "P018": {
+        "name": "William Anderson",
+        "city": "Boston",
+        "age": 39,
+        "gender": "male",
+        "height": 1.79,
+        "weight": 76,
+        "bmi": 23.73,
+        "verdict": "Normal"
+    },
+    "P019": {
+        "name": "Chloe Thomas",
+        "city": "Detroit",
+        "age": 32,
+        "gender": "female",
+        "height": 1.61,
+        "weight": 68,
+        "bmi": 26.23,
+        "verdict": "Overweight"
+    },
+    "P020": {
+        "name": "Karan Deshmukh",
+        "city": "Miami",
+        "age": 36,
+        "gender": "male",
+        "height": 1.72,
+        "weight": 60,
+        "bmi": 20.28,
+        "verdict": "Normal"
+    }
+}
